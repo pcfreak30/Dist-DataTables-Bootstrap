@@ -2,8 +2,8 @@
     "name": "datatables.net-bs",
     "description": "DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)",
     "main": [
-        "js/dataTables.bootstrap.js",
-        "css/dataTables.bootstrap.css"
+        "css/dataTables.bootstrap.css",
+        "js/dataTables.bootstrap.js"
     ],
     "keywords": [
         "filter",
